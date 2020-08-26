@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+    </head>
+    <body>
+    <style>
+   
+    
+    body{
+        background-color:rgb(250, 110, 159);
+        font-weight:bold;
+        font-style:italic;
+    }
+    
+    p{
+        font-style:normal;
+        
+       
+    }
+    
+   
+        .head1{
+            color:rgb(181, 119, 181);
+            background:rgb(195, 220, 232);
+            text-decoration:underline;
+            font-style:italic;
+        }
+    
+    </style>
+        
+        <h1 class="head1">JOJO's blog</h1>
+        
+        <ul>
+            <li id="back-up"><a href="#intro12">Intro  </a></li>
+            <li><a href="#nigeria1"> Nigeria  </a></li>
+            <li><a href="#argentina1"> Argentina  </a></li>
+            <li><a href="#china1"> china   </a></li>
+            <li><a href="#brazil1">  brazil     </a></li>
+            <li><a href="#russia1">  russia   </a></li>
+          
+        </ul>
+        
+
+        <h1 class="head1" id="intro12"><a href ="#back-up">intro</a></h1>
+        <p>we are about to see some countries that i would like to visit.<br>
+        <em >enjoy</em>
+        </p>
+        
+        <h2 id="nigeria1" class="head1"><a href="#back-up"> Nigeria</a></h2>
+        <p>Nigeria Country in West Africa
+Nigeria, an African country on the Gulf of Guinea, has many natural landmarks and wildlife reserves. Protected areas such as Cross River National Park and Yankari National Park have waterfalls,              dense rainforest, savanna and rare primate habitats. One of the most recognizable sites is Zuma Rock, a 725m-tall monolith outside                the capital of Abuja that’s pictured on the national currency. Capital: AbujaDialing code: +234
+Population: 195.9 million (2018) World Bank Currency: Nigerian naira</p>
+        
+        
+        <h2 id="argentina1" class="head1"> <a href="#back-up">Argentina</a></h2>
+        <p>Argentina, officially the Argentine Republic, is a country located mostly in the southern half of South America. Wikipedia
+Capital: Buenos Aires
+Population: 44.49 million (2018) World Bank
+Currency: Argentine peso
+President: Alberto Fernández
+Official language: Spanish</p>
+        <h2 id="china1" class="head1" ><a href="#back-up">China </a></h2>
+        <p>China, officially the People's Republic of China, is a country in East Asia. It is the world's most populous country, with a population of around 1.4 billion in 2019. Covering approximately 9.6 million square kilometres, it is the world's third or fourth-largest country by area. Wikipedia
+President: Xi Jinping Trending
+Capital: Beijing
+Population: 1.393 billion (2018) World Bank
+Currency: Renminbi</p>
+        <h2 id="brazil1" class="head1" ><a href="#back-up">Brazil</a></h2>
+        <p>Brazil, officially the Federative Republic of Brazil, is the largest country in both South America and Latin America. At 8.5 million square kilometers and with over 211 million people, Brazil is the world's fifth-largest country by area and the sixth most populous. Wikipedia
+President: Jair Bolsonaro Trending
+Capital: Brasilia
+Population: 209.5 million (2018) World Bank
+Currency: Brazilian real</p>
+        
+        <h2 id="russia1" class="head1"><a href="#back-up">Russia</a></h2>
+        <p>Russia, or the Russian Federation, is a transcontinental country located in Eastern Europe and Northern Asia. Wikipedia
+President: Vladimir Putin Trending
+Capital: Moscow
+Population: 144.5 million (2018) World Bank
+Currency: Russian Rouble
+Continent: Europe, Asia</p>
+        
+        <h6 id="head1" class="head1">Posted on some date in some year</h6>
+        
+        
+        
+    </body>
+</html>
